@@ -39,7 +39,7 @@
 ### Cài đặt
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/music-playlist-app.git
+git clone https://github.com/ThaiSang1402/-music-playlist-app.git
 cd music-playlist-app
 
 # Cài đặt dependencies
@@ -111,7 +111,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 👨‍💻 Tác giả
 
-**Sang Thai** - [GitHub](https://github.com/YOUR_USERNAME)
+**Sang Thai** - [GitHub](https://github.com/ThaiSang1402)
 
 ---
 
